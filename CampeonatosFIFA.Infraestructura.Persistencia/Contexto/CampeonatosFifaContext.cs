@@ -24,7 +24,8 @@ namespace CampeonatosFIFA.Infraestructura.Persistencia.Contexto
                 entidad.HasIndex(e => e.Nombre).IsUnique();
             });
 
-            modelBuilder.Entity<Campeonato>(entidad => {
+            modelBuilder.Entity<Campeonato>(entidad =>
+            {
                 entidad.HasKey(e => e.Id);
                 entidad.HasIndex(e => e.Nombre).IsUnique();
             });
@@ -34,7 +35,8 @@ namespace CampeonatosFIFA.Infraestructura.Persistencia.Contexto
                 .WithMany()
                 .HasForeignKey(e => e.IdSeleccion);
 
-            modelBuilder.Entity<Ciudad>(entidad => {
+            modelBuilder.Entity<Ciudad>(entidad =>
+            {
                 entidad.HasKey(e => e.Id);
                 entidad.HasIndex(e => e.Nombre);
             });
@@ -43,6 +45,21 @@ namespace CampeonatosFIFA.Infraestructura.Persistencia.Contexto
                .HasOne(e => e.Pais)
                .WithMany()
                .HasForeignKey(e => e.IdSeleccion);
+
+            modelBuilder.Entity<GrupoPais>(entidad =>
+            {
+                entidad.HasKey(e => new { e.IdGrupo, e.IdSeleccion });
+            });
+
+            modelBuilder.Entity<GrupoPais>()
+               .HasOne(e => e.Grupo)
+               .WithMany()
+               .HasForeignKey(e => e.IdGrupo);
+
+            modelBuilder.Entity<GrupoPais>()
+                   .HasOne(e => e.Seleccion)
+                   .WithMany()
+                   .HasForeignKey(e => e.IdSeleccion);
         }
     }
 }
