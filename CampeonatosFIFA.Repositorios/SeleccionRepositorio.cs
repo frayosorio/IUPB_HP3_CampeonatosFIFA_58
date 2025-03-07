@@ -15,14 +15,19 @@ namespace CampeonatosFIFA.Repositorios
         }
 
 
-        public Task<Seleccion> Agregar(Seleccion seleccion)
+        public async Task<Seleccion> Agregar(Seleccion seleccion)
         {
-            throw new NotImplementedException();
+            context.Selecciones.Add(seleccion);
+            await context.SaveChangesAsync();
+            return seleccion;
         }
 
-        public Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
+        public async Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
         {
-            throw new NotImplementedException();
+            return await context.Selecciones
+                .Where(item => (Tipo == 0 && item.Nombre.Contains(Dato))
+                || Tipo == 1 && item.Entidad.Contains(Dato))
+                .ToArrayAsync(); 
         }
 
         public Task<bool> Eliminar(int Id)

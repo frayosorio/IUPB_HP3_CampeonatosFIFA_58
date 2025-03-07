@@ -22,5 +22,23 @@ namespace CampeonatosFIFA.Presentacion.Controllers
             return await servicio.ObtenerTodos();
         }
 
+        [HttpGet("obtener/{Id}")]
+        public async Task<Seleccion> Obtener(int Id)
+        {
+            return await servicio.Obtener(Id);
+        }
+
+        [HttpGet("buscar/{Tipo}/{Dato}")]
+        public async Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
+        {
+            return await servicio.Buscar(Tipo, Dato);
+        }
+
+        [HttpPost("agregar")]
+        public async Task<Seleccion> Agregar(Seleccion seleccion)
+        {
+            return await servicio.Agregar(seleccion);
+        }
+
     }
 }
