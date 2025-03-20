@@ -35,9 +35,21 @@ namespace CampeonatosFIFA.Presentacion.Controllers
         }
 
         [HttpPost("agregar")]
-        public async Task<Seleccion> Agregar(Seleccion seleccion)
+        public async Task<Seleccion> Agregar([FromBody]Seleccion seleccion)
         {
             return await servicio.Agregar(seleccion);
+        }
+
+        [HttpPut("modificar")]
+        public async Task<Seleccion> Modificar([FromBody] Seleccion seleccion)
+        {
+            return await servicio.Modificar(seleccion);
+        }
+
+        [HttpDelete("eliminar/{Id}")]
+        public async Task<bool> Eliminar(int Id)
+        {
+            return await servicio.Eliminar(Id);
         }
 
     }

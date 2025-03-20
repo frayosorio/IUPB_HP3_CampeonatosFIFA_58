@@ -27,17 +27,40 @@ namespace CampeonatosFIFA.Repositorios
             return await context.Selecciones
                 .Where(item => (Tipo == 0 && item.Nombre.Contains(Dato))
                 || Tipo == 1 && item.Entidad.Contains(Dato))
-                .ToArrayAsync(); 
+                .ToArrayAsync();
         }
 
-        public Task<bool> Eliminar(int Id)
+        public async Task<bool> Eliminar(int Id)
         {
-            throw new NotImplementedException();
+            var seleccionExistente = await context.Selecciones.FindAsync(Id);
+            if (seleccionExistente == null)
+            {
+                return false;
+            }
+            try
+            {
+                context.Selecciones.Remove(seleccionExistente);
+                await context.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
 
-        public Task<Seleccion> Modificar(Seleccion seleccion)
+        public async Task<Seleccion> Modificar(Seleccion seleccion)
         {
-            throw new NotImplementedException();
+            var seleccionExistente = await context.Selecciones.FindAsync(seleccion.Id);
+            if (seleccionExistente == null)
+            {
+                return null;
+            }
+
+            context.Entry(seleccionExistente).CurrentValues.SetValues(seleccion);
+            await context.SaveChangesAsync();
+
+            return await context.Selecciones.FindAsync(seleccion.Id);
         }
 
         public async Task<Seleccion> Obtener(int Id)
