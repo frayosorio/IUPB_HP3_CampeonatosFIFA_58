@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Infraestruc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Core", "CampeonatosFIFA.Core\CampeonatosFIFA.Core.csproj", "{9679DCC1-1094-42C8-AB19-BAD265F1493F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Repositorios", "CampeonatosFIFA.Repositorios\CampeonatosFIFA.Repositorios.csproj", "{1876F7E8-1C05-4358-A522-4591489C69C9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Aplicacion", "CampeonatosFIFA.Aplicacion\CampeonatosFIFA.Aplicacion.csproj", "{BDD49E00-259C-4214-9B21-04856A12DA22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.Presentacion", "CampeonatosFIFA.Presentacion\CampeonatosFIFA.Presentacion.csproj", "{528A7C09-E35E-4FFD-946C-7EA8A84A35F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Presentacion", "CampeonatosFIFA.Presentacion\CampeonatosFIFA.Presentacion.csproj", "{528A7C09-E35E-4FFD-946C-7EA8A84A35F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Infraestructura.Repositorios", "CampeonatosFIFA.Infrestructura.Repositorios\CampeonatosFIFA.Infraestructura.Repositorios.csproj", "{D4E57A21-78F9-421F-BDA5-32DFFBE84C1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +33,6 @@ Global
 		{9679DCC1-1094-42C8-AB19-BAD265F1493F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9679DCC1-1094-42C8-AB19-BAD265F1493F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9679DCC1-1094-42C8-AB19-BAD265F1493F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1876F7E8-1C05-4358-A522-4591489C69C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1876F7E8-1C05-4358-A522-4591489C69C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1876F7E8-1C05-4358-A522-4591489C69C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1876F7E8-1C05-4358-A522-4591489C69C9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BDD49E00-259C-4214-9B21-04856A12DA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BDD49E00-259C-4214-9B21-04856A12DA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDD49E00-259C-4214-9B21-04856A12DA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{528A7C09-E35E-4FFD-946C-7EA8A84A35F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{528A7C09-E35E-4FFD-946C-7EA8A84A35F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{528A7C09-E35E-4FFD-946C-7EA8A84A35F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E57A21-78F9-421F-BDA5-32DFFBE84C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E57A21-78F9-421F-BDA5-32DFFBE84C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E57A21-78F9-421F-BDA5-32DFFBE84C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E57A21-78F9-421F-BDA5-32DFFBE84C1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

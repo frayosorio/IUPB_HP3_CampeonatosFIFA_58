@@ -1,5 +1,4 @@
-﻿using CampeonatosFIFA.Core.Repositorios;
-using CampeonatosFIFA.Core.Servicios;
+﻿using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
 using Microsoft.AspNetCore.Mvc;
 

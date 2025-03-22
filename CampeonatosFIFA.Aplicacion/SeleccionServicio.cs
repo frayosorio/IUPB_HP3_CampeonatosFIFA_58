@@ -13,9 +13,9 @@ namespace CampeonatosFIFA.Aplicacion
             this.repositorio = repositorio;
         }
 
-        public async Task<Seleccion> Agregar(Seleccion seleccion)
+        public async Task<Seleccion> Agregar(Seleccion Seleccion)
         {
-            return await repositorio.Agregar(seleccion);
+            return await repositorio.Agregar(Seleccion);
         }
 
         public async Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
@@ -28,9 +28,9 @@ namespace CampeonatosFIFA.Aplicacion
             return await repositorio.Eliminar(Id);
         }
 
-        public async Task<Seleccion> Modificar(Seleccion seleccion)
+        public async Task<Seleccion> Modificar(Seleccion Seleccion)
         {
-            return await repositorio.Modificar(seleccion);
+            return await repositorio.Modificar(Seleccion);
         }
 
         public async Task<Seleccion> Obtener(int Id)

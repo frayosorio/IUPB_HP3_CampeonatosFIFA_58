@@ -10,6 +10,8 @@
         "dependencies": {
           "CampeonatosFIFA.Aplicacion": "1.0.0",
           "CampeonatosFIFA.Dominio": "1.0.0",
+          "CampeonatosFIFA.Infraestructura.Persistencia": "1.0.0",
+          "CampeonatosFIFA.Infraestructura.Repositorios": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -666,8 +668,7 @@
       "CampeonatosFIFA.Aplicacion/1.0.0": {
         "dependencies": {
           "CampeonatosFIFA.Core": "1.0.0",
-          "CampeonatosFIFA.Dominio": "1.0.0",
-          "CampeonatosFIFA.Repositorios": "1.0.0"
+          "CampeonatosFIFA.Dominio": "1.0.0"
         },
         "runtime": {
           "CampeonatosFIFA.Aplicacion.dll": {
@@ -707,14 +708,14 @@
           }
         }
       },
-      "CampeonatosFIFA.Repositorios/1.0.0": {
+      "CampeonatosFIFA.Infraestructura.Repositorios/1.0.0": {
         "dependencies": {
           "CampeonatosFIFA.Core": "1.0.0",
           "CampeonatosFIFA.Dominio": "1.0.0",
           "CampeonatosFIFA.Infraestructura.Persistencia": "1.0.0"
         },
         "runtime": {
-          "CampeonatosFIFA.Repositorios.dll": {
+          "CampeonatosFIFA.Infraestructura.Repositorios.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1182,7 +1183,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CampeonatosFIFA.Repositorios/1.0.0": {
+    "CampeonatosFIFA.Infraestructura.Repositorios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
