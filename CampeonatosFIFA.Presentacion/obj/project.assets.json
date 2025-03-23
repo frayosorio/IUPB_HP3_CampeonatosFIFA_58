@@ -1098,7 +1098,7 @@
           }
         }
       },
-      "CampeonatosFIFA.Aplicacion/1.0.0": {
+      "CampeonatosFIFA.aplicacion/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -1106,10 +1106,10 @@
           "CampeonatosFIFA.Dominio": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CampeonatosFIFA.Aplicacion.dll": {}
+          "bin/placeholder/CampeonatosFIFA.aplicacion.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CampeonatosFIFA.Aplicacion.dll": {}
+          "bin/placeholder/CampeonatosFIFA.aplicacion.dll": {}
         }
       },
       "CampeonatosFIFA.Core/1.0.0": {
@@ -3302,10 +3302,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "CampeonatosFIFA.Aplicacion/1.0.0": {
+    "CampeonatosFIFA.aplicacion/1.0.0": {
       "type": "project",
-      "path": "../CampeonatosFIFA.Aplicacion/CampeonatosFIFA.Aplicacion.csproj",
-      "msbuildProject": "../CampeonatosFIFA.Aplicacion/CampeonatosFIFA.Aplicacion.csproj"
+      "path": "../CampeonatosFIFA.aplicacion/CampeonatosFIFA.aplicacion.csproj",
+      "msbuildProject": "../CampeonatosFIFA.aplicacion/CampeonatosFIFA.aplicacion.csproj"
     },
     "CampeonatosFIFA.Core/1.0.0": {
       "type": "project",
@@ -3330,10 +3330,10 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "CampeonatosFIFA.Aplicacion >= 1.0.0",
       "CampeonatosFIFA.Dominio >= 1.0.0",
       "CampeonatosFIFA.Infraestructura.Persistencia >= 1.0.0",
       "CampeonatosFIFA.Infraestructura.Repositorios >= 1.0.0",
+      "CampeonatosFIFA.aplicacion >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
