@@ -671,9 +671,9 @@
           "CampeonatosFIFA.Dominio": "1.0.0"
         },
         "runtime": {
-          "CampeonatosFIFA.aplicacion.dll": {
+          "CampeonatosFIFA.Aplicacion.dll": {
             "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
+            "fileVersion": ""
           }
         }
       },

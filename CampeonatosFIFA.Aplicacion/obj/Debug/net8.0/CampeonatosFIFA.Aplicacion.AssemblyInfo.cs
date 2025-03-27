@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CampeonatosFIFA.aplicacion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CampeonatosFIFA.Aplicacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1343de6a2e08df75e93b36ebecf810c62603c7b")]
-[assembly: System.Reflection.AssemblyProductAttribute("CampeonatosFIFA.aplicacion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CampeonatosFIFA.aplicacion")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a3f37457c1e8c51c11371615fa5636e2c9cdcd")]
+[assembly: System.Reflection.AssemblyProductAttribute("CampeonatosFIFA.Aplicacion")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CampeonatosFIFA.Aplicacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

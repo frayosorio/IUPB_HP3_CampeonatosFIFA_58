@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "CampeonatosFIFA.aplicacion/1.0.0": {
+      "CampeonatosFIFA.Aplicacion/1.0.0": {
         "dependencies": {
           "CampeonatosFIFA.Core": "1.0.0",
           "CampeonatosFIFA.Dominio": "1.0.0"
         },
         "runtime": {
-          "CampeonatosFIFA.aplicacion.dll": {}
+          "CampeonatosFIFA.Aplicacion.dll": {}
         }
       },
       "CampeonatosFIFA.Core/1.0.0": {
@@ -37,7 +37,7 @@
     }
   },
   "libraries": {
-    "CampeonatosFIFA.aplicacion/1.0.0": {
+    "CampeonatosFIFA.Aplicacion/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
