@@ -9,11 +9,11 @@ namespace CampeonatosFIFA.Dominio.Entidades
         [Column("IdGrupo")]
         public int IdGrupo { get; set; }
 
-        public Grupo Grupo { get; set; }
+        public Grupo? Grupo { get; set; }
 
         [Column("IdPais")]
         public int IdSeleccion { get; set; }
 
-        public Seleccion Seleccion { get; set; }
+        public Seleccion? Seleccion { get; set; }
     }
 }

@@ -18,8 +18,7 @@ namespace CampeonatosFIFA.Dominio.Entidades
         [Column("IdPais")]
         public int IdSeleccion { get; set; }
 
-
-        public Seleccion PaisOrganizador { get; set; }
+        public Seleccion? PaisOrganizador { get; set; }
 
     }
 }

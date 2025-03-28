@@ -45,13 +45,13 @@ namespace CampeonatosFIFA.Infraestructura.Persistencia.Contexto
             modelBuilder.Entity<Ciudad>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
-                entidad.HasIndex(e => new { e.IdSeleccion, e.Nombre }).IsUnique();
+                entidad.HasIndex(e => new { e.IdPais, e.Nombre }).IsUnique();
             });
 
             modelBuilder.Entity<Ciudad>()
                .HasOne(e => e.Pais)
                .WithMany()
-               .HasForeignKey(e => e.IdSeleccion);
+               .HasForeignKey(e => e.IdPais);
 
             modelBuilder.Entity<Estadio>(entidad =>
             {
