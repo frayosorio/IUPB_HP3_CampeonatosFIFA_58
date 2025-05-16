@@ -28,7 +28,8 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
                 .Where(item => (Tipo == 0 && item.Nombre.Contains(Dato))
                 || (Tipo == 1 && item.Año.ToString()==Dato)
                 || (Tipo == 2 && item.PaisOrganizador.Nombre.Contains(Dato)))
-                .Include(e => e.PaisOrganizador)   // Incluir el objeto Pais Organizador
+                .Include(c => c.PaisOrganizador)   // Incluir el objeto Pais Organizador
+                .OrderBy(c => c.Año)
                 .ToArrayAsync();
         }
 
@@ -76,6 +77,7 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
         {
             return await context.Campeonatos
                 .Include(e => e.PaisOrganizador)   // Incluir el objeto Pais Organizador
+                .OrderBy(c => c.Año)
                 .ToArrayAsync();
         }
     }

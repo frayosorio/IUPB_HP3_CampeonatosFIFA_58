@@ -27,6 +27,7 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
             return await context.Selecciones
                 .Where(item => (Tipo == 0 && item.Nombre.Contains(Dato))
                 || (Tipo == 1 && item.Entidad.Contains(Dato)))
+                .OrderBy(s => s.Nombre)
                 .ToArrayAsync();
         }
 
@@ -70,7 +71,9 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
 
         public async Task<IEnumerable<Seleccion>> ObtenerTodos()
         {
-            return await context.Selecciones.ToArrayAsync();
+            return await context.Selecciones
+                .OrderBy(s => s.Nombre)
+                .ToArrayAsync();
         }
     }
 }
