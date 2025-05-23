@@ -26,6 +26,7 @@ namespace CampeonatosFIFA.Presentacion.DI
             servicios.AddTransient<IGrupoPaisRepositorio, GrupoPaisRepositorio>();
             servicios.AddTransient<IFaseRepositorio, FaseRepositorio>();
             servicios.AddTransient<IEncuentroRepositorio, EncuentroRepositorio>();
+            servicios.AddTransient<IUsuarioRepositorio, UsuarioRepositorio>();
 
             //agregar servicios
             servicios.AddTransient<ISeleccionServicio, SeleccionServicio>();
@@ -35,6 +36,7 @@ namespace CampeonatosFIFA.Presentacion.DI
             servicios.AddTransient<IGrupoServicio, GrupoServicio>();
             servicios.AddTransient<IFaseServicio, FaseServicio>();
             servicios.AddTransient<IEncuentroServicio, EncuentroServicio>();
+            servicios.AddTransient<IUsuarioServicio, UsuarioServicio>();
 
             return servicios;
         }

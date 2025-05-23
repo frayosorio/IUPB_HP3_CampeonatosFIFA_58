@@ -19,12 +19,19 @@ namespace CampeonatosFIFA.Infraestructura.Persistencia.Contexto
         public DbSet<Estadio> Estadios { get; set; }
         public DbSet<Encuentro> Encuentros { get; set; }
         public DbSet<GrupoPais> GrupoPaises { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
         public DbSet<TablaPosicionesDto> TablaPosiciones { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Usuario>(entidad =>
+            {
+                entidad.HasKey(e => e.Id);
+                entidad.HasIndex(e => e.NombreUsuario).IsUnique();
+            });
+
             modelBuilder.Entity<Seleccion>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
