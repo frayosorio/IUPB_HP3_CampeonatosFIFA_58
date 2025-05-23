@@ -1,10 +1,11 @@
-﻿using CampeonatosFIFA.Dominio.Entidades;
+﻿using CampeonatosFIFA.Dominio.DTOs;
+using CampeonatosFIFA.Dominio.Entidades;
 
 namespace CampeonatosFIFA.Core.Servicios
 {
     public interface IUsuarioServicio
     {
-        Task<Usuario> ValidarUsuario(String NombreUsuario, String Clave);
+        Task<UsuarioDto> ValidarUsuario(String NombreUsuario, String Clave);
 
         Task<IEnumerable<Usuario>> ObtenerTodos();
 

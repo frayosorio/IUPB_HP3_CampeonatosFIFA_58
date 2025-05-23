@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.presentacion\\di\\inyecciondependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|solutionrelative:campeonatosfifa.presentacion\\di\\inyecciondependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|solutionrelative:campeonatosfifa.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021D3E73-883E-4D58-AD80-D51AA496A204}|CampeonatosFIFA.aplicacion\\CampeonatosFIFA.aplicacion.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.aplicacion\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021D3E73-883E-4D58-AD80-D51AA496A204}|CampeonatosFIFA.aplicacion\\CampeonatosFIFA.aplicacion.csproj|solutionrelative:campeonatosfifa.aplicacion\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.presentacion\\controllers\\usuariocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|solutionrelative:campeonatosfifa.presentacion\\controllers\\usuariocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8D83F0-9471-49C3-834D-1E12DCBEB1D7}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.core\\servicios\\iusuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8D83F0-9471-49C3-834D-1E12DCBEB1D7}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|solutionrelative:campeonatosfifa.core\\servicios\\iusuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0915E66-ABF7-4023-9AC2-0AE64B526192}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.dominio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0915E66-ABF7-4023-9AC2-0AE64B526192}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.presentacion\\di\\inyecciondependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|solutionrelative:campeonatosfifa.presentacion\\di\\inyecciondependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E8D83F0-9471-49C3-834D-1E12DCBEB1D7}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.core\\repositorios\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{C0915E66-ABF7-4023-9AC2-0AE64B526192}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021D3E73-883E-4D58-AD80-D51AA496A204}|CampeonatosFIFA.aplicacion\\CampeonatosFIFA.aplicacion.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.aplicacion\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021D3E73-883E-4D58-AD80-D51AA496A204}|CampeonatosFIFA.aplicacion\\CampeonatosFIFA.aplicacion.csproj|solutionrelative:campeonatosfifa.aplicacion\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E8D83F0-9471-49C3-834D-1E12DCBEB1D7}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.core\\servicios\\iusuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8D83F0-9471-49C3-834D-1E12DCBEB1D7}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|solutionrelative:campeonatosfifa.core\\servicios\\iusuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5C7F1D0-5C93-46FF-8FF8-C5F7BD0E7A45}|CampeonatosFIFA.Infrestructura.Repositorios\\CampeonatosFIFA.Infraestructura.Repositorios.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.infrestructura.repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5C7F1D0-5C93-46FF-8FF8-C5F7BD0E7A45}|CampeonatosFIFA.Infrestructura.Repositorios\\CampeonatosFIFA.Infraestructura.Repositorios.csproj|solutionrelative:campeonatosfifa.infrestructura.repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43A3050A-1304-4815-9232-DF5289D45BB7}|CampeonatosFIFA.Infraestructura.Persistencia\\CampeonatosFIFA.Infraestructura.Persistencia.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.infraestructura.persistencia\\contexto\\campeonatosfifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43A3050A-1304-4815-9232-DF5289D45BB7}|CampeonatosFIFA.Infraestructura.Persistencia\\CampeonatosFIFA.Infraestructura.Persistencia.csproj|solutionrelative:campeonatosfifa.infraestructura.persistencia\\contexto\\campeonatosfifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0915E66-ABF7-4023-9AC2-0AE64B526192}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.dominio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0915E66-ABF7-4023-9AC2-0AE64B526192}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26034632-F041-4B9B-9691-8FF2785E48DE}|CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj|d:\\catedra\\iu pascual bravo\\hp iii\\cursos\\curso 2025-1 58\\ejercicios\\apicampeonatosfifa\\campeonatosfifa.presentacion\\controllers\\grupocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,45 +79,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Presentacion\\appsettings.json",
+              "ToolTip": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\appsettings.json",
+              "RelativeToolTip": "CampeonatosFIFA.Presentacion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T12:12:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "InyeccionDependencias.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\DI\\InyeccionDependencias.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Presentacion\\DI\\InyeccionDependencias.cs",
               "ToolTip": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\DI\\InyeccionDependencias.cs",
               "RelativeToolTip": "CampeonatosFIFA.Presentacion\\DI\\InyeccionDependencias.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:06:29.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T12:06:29.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UsuarioControlador.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\Controllers\\UsuarioControlador.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Presentacion\\Controllers\\UsuarioControlador.cs",
               "ToolTip": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\Controllers\\UsuarioControlador.cs",
               "RelativeToolTip": "CampeonatosFIFA.Presentacion\\Controllers\\UsuarioControlador.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T12:00:12.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UsuarioServicio.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Aplicacion\\Servicios\\UsuarioServicio.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Aplicacion\\Servicios\\UsuarioServicio.cs",
               "ToolTip": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Aplicacion\\Servicios\\UsuarioServicio.cs",
               "RelativeToolTip": "CampeonatosFIFA.Aplicacion\\Servicios\\UsuarioServicio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T11:54:10.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CampeonatosFifaContext.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Infraestructura.Persistencia\\Contexto\\CampeonatosFifaContext.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Infraestructura.Persistencia\\Contexto\\CampeonatosFifaContext.cs",
@@ -121,12 +137,11 @@
               "RelativeToolTip": "CampeonatosFIFA.Infraestructura.Persistencia\\Contexto\\CampeonatosFifaContext.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwB8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:38:34.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:38:34.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Infrestructura.Repositorios\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Infrestructura.Repositorios\\UsuarioRepositorio.cs",
@@ -134,25 +149,24 @@
               "RelativeToolTip": "CampeonatosFIFA.Infrestructura.Repositorios\\UsuarioRepositorio.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAcwDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:37:05.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:37:05.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IUsuarioServicio.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Core\\Servicios\\IUsuarioServicio.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Core\\Servicios\\IUsuarioServicio.cs",
               "ToolTip": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Core\\Servicios\\IUsuarioServicio.cs",
               "RelativeToolTip": "CampeonatosFIFA.Core\\Servicios\\IUsuarioServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T11:35:30.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IUsuarioRepositorio.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Core\\Repositorios\\IUsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Core\\Repositorios\\IUsuarioRepositorio.cs",
@@ -160,25 +174,24 @@
               "RelativeToolTip": "CampeonatosFIFA.Core\\Repositorios\\IUsuarioRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:33:27.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:33:27.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "UsuarioDto.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Dominio\\DTOs\\UsuarioDto.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\DTOs\\UsuarioDto.cs",
               "ToolTip": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Dominio\\DTOs\\UsuarioDto.cs",
               "RelativeToolTip": "CampeonatosFIFA.Dominio\\DTOs\\UsuarioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T11:31:13.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Usuario.cs",
@@ -186,12 +199,11 @@
               "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:29:28.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:29:28.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GrupoControlador.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\Controllers\\GrupoControlador.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Presentacion\\Controllers\\GrupoControlador.cs",
@@ -199,12 +211,11 @@
               "RelativeToolTip": "CampeonatosFIFA.Presentacion\\Controllers\\GrupoControlador.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAcwGIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:20:01.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T12:20:01.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SeleccionRepositorio.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Infrestructura.Repositorios\\SeleccionRepositorio.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Infrestructura.Repositorios\\SeleccionRepositorio.cs",
@@ -216,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CampeonatoRepositorio.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Infrestructura.Repositorios\\CampeonatoRepositorio.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Infrestructura.Repositorios\\CampeonatoRepositorio.cs",
@@ -228,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Campeonato.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
@@ -240,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SeleccionControlador.cs",
               "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 58\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\Controllers\\SeleccionControlador.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Presentacion\\Controllers\\SeleccionControlador.cs",
